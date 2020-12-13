@@ -1,0 +1,14 @@
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/WorkoutReorganizer.deps.json
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/WorkoutReorganizer.runtimeconfig.json
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/WorkoutReorganizer.runtimeconfig.dev.json
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/WorkoutReorganizer.dll
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/WorkoutReorganizer.pdb
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/Jen/Projects/WorkoutReorganizer/bin/Debug/netcoreapp3.1/itextsharp.dll
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.AssemblyInfoInputs.cache
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.AssemblyInfo.cs
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.csproj.CoreCompileInputs.cache
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.csproj.CopyComplete
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.dll
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.pdb
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.genruntimeconfig.cache
