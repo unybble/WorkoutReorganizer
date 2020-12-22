@@ -16,7 +16,7 @@ namespace WorkoutReorganizer
         {
             File.Delete(Program.path + Filename + ".csv");
             File.AppendAllText(Program.path + Filename + ".csv",
-                "Title,Section,Reps,Sets,Description \n");
+                "Title,Section,Description \n");
             
             foreach(var workout in workouts)
             {
@@ -27,8 +27,6 @@ namespace WorkoutReorganizer
                         var sb = new StringBuilder();
                         sb.Append(workout.Title).Append(",")
                             .Append(section.Title).Append(",")
-                            .Append(item.Repetitions).Append(",")
-                            .Append(item.Sets).Append(",")
                             .Append(item.Description).Append(",")
                             .Append("\n");
                         

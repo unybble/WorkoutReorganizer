@@ -12,3 +12,4 @@
 /Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.dll
 /Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.pdb
 /Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.genruntimeconfig.cache
+/Users/Jen/Projects/WorkoutReorganizer/obj/Debug/netcoreapp3.1/WorkoutReorganizer.csprojAssemblyReference.cache
